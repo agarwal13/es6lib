@@ -7,7 +7,7 @@
     "build": "gulp build",
     "dev": "gulp",
     "test": "gulp test",
-    "postinstall": "npm run-script build"
+    "postinstall": "gulp build"
   },
   "keywords": [
     "es6lib"
